@@ -8,31 +8,16 @@ module.exports = {
 	disqusShortname: '',
 	postsPerPage: 4,
 	googleAnalyticsId: 'UA-73379983-2',
-	menu: [
-		{
-			label: 'Articles',
-			path: '/',
-		},
-		{
-			label: 'About me',
-			path: '/pages/about',
-		},
-		{
-			label: 'Contact me',
-			path: '/pages/contacts',
-		},
-	],
+
 	author: {
 		name: 'Lauren Worthington',
-		photo: '/photo.jpg',
-		bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+		photo: '/photo.png',
+		bio: 'Blogging my way through labs',
 		contacts: {
-			email: '#',
-			telegram: '#',
-			twitter: '#',
-			github: '#',
-			rss: '#',
-			vkontakte: '#',
+			email: 'me@ldub.io',
+			twitter: 'llwor94',
+			github: 'llwor94',
+			linkedin: 'lauren-worthington',
 		},
 	},
 };
